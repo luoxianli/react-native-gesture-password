@@ -82,7 +82,7 @@ var {
     AppRegistry,
     } = require('react-native');
 
-var PasswordGesture = require('react-native-gesture-password');
+var PasswordGesture = require('rn-gesture-password');
 
 var Password1 = '';
 var AppDemo = React.createClass({

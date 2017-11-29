@@ -6,7 +6,7 @@ import {
     View
 } from 'react-native';
 
-import PasswordGesture from 'react-native-gesture-password';
+import PasswordGesture from 'rn-gesture-password';
 
 var Password1 = '123';
 

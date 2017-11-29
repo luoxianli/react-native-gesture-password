@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/luoxianli/react-native-gesture-password.git"
+    "url": "git+https://github.com/luoxianli/rn-gesture-password.git"
   },
   "keywords": [
     "gesture",
     "password"
   ],
   "author": "luoxianli",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/luoxianli/react-native-gesture-password/issues"
+    "url": "https://github.com/luoxianli/rn-gesture-password/issues"
   },
-  "homepage": "https://github.com/luoxianli/react-native-gesture-password#readme"
+  "homepage": "https://github.com/luoxianli/rn-gesture-password#readme"
 }
