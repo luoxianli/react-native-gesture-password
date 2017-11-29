@@ -178,6 +178,9 @@ AppRegistry.registerComponent('AppDemo', () => AppDemo);
 
 ```
 ## Change Logs
+#### v0.2.2
+解决React.PropTypes在React16版本中不能使用的问题
+
 
 #### v0.2.0
 
